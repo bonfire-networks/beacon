@@ -1,4 +1,5 @@
-defmodule Beacon.Repo.Migrations.CreateComponents do
+defmodule Beacon.Repo.Migrations.CreateComponents  do
+  @moduledoc false
   use Ecto.Migration
 
   def change do

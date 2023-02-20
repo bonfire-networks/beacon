@@ -1,4 +1,5 @@
-defmodule Beacon.Repo.Migrations.CreateLayouts do
+defmodule Beacon.Repo.Migrations.CreateLayouts  do
+  @moduledoc false
   use Ecto.Migration
 
   def change do

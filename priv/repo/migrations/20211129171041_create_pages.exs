@@ -1,4 +1,5 @@
-defmodule Beacon.Repo.Migrations.CreatePages do
+defmodule Beacon.Repo.Migrations.CreatePages  do
+  @moduledoc false
   use Ecto.Migration
 
   def change do
